@@ -22,7 +22,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 ## Back-end
-<h3 style="font-weight: bold;">Back-end</h3>
+<h2 style="font-weight: bold;">Back-end</h2>
 <div style="display: inline_block">
   <img alt="Bruno-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
 </div>
