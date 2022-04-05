@@ -27,6 +27,12 @@
 </div>
 <hr style="border:2px solid gray"> </hr>
 
+## Mobile
+<div style="display: inline_block">
+  <img alt="Bruno-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />        
+</div>
+<hr style="border:2px solid gray"> </hr>
+
 ## Outras habilidades
 <div style="display: inline_block">
   <img alt="Bruno-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
