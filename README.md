@@ -1,7 +1,8 @@
 # Olá, bem vindo ao meu perfil 👋
 
-- 🔭 Atualmente trabalho como front-end developer
-- 🌱 Estou estudando React
+- 🙋‍♂️ Me chamo **Bruno**, tenho **21 anos**
+- 🔭 Atualmente atuo como **front-end developer**
+- 🌱 Estou estudando **React**
 - 📫 Quer falar comigo? Me envie um email: <b>brunoalvesdev@outlook.com</b>
 <hr style="border:2px solid gray"> </hr>
 
