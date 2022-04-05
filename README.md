@@ -25,6 +25,7 @@
 <div style="display: inline_block">
   <img alt="Bruno-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
 </div>
+<hr style="border:2px solid gray"> </hr>
 
 ## Outras habilidades
 <div style="display: inline_block">
@@ -32,5 +33,6 @@
   <img alt="Bruno-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Bruno-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+<hr style="border:2px solid gray"> </hr>
   
 ![Snake animation](https://github.com/brunobl4ck/brunobl4ck/blob/output/github-contribution-grid-snake.svg)
