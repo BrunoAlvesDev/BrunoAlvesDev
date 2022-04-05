@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil 👋
+# Olá, bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente trabalho como front-end developer
 - 🌱 Estou estudando React
