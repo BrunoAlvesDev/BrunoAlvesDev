@@ -4,11 +4,11 @@
 - 🌱 Estou estudando React
 - 📫 Quer falar comigo? Me envie um email: <b>brunoalvesdev@outlook.com</b>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/brunobl4ck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobl4ck&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobl4ck&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />  
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
