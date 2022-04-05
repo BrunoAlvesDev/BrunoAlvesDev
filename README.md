@@ -1,15 +1,12 @@
+
 # Olá, bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente trabalho como front-end developer
 - 🌱 Estou estudando React
 - 📫 Quer falar comigo? Me envie um email: <b>brunoalvesdev@outlook.com</b>
+<hr style="border:2px solid gray"> </hr>
 
-<!-- <div align="center">
-  <a href="https://github.com/brunobl4ck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobl4ck&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobl4ck&layout=compact&langs_count=7&theme=merko"/>
-</div> -->
-## Front-end
+<h3>Front-end</h3>
 <div style="display: inline_block">
   <img alt="Bruno-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />  
   <img alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,20 +18,19 @@
 </div>
 <hr style="border:2px solid gray"> </hr>
 
-## Back-end
-<h2 style="font-weight: bold;">Back-end</h2>
+<h3>Back-end</h3>
 <div style="display: inline_block">
   <img alt="Bruno-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
 </div>
 <hr style="border:2px solid gray"> </hr>
 
-## Mobile
+<h3>Mobile</h3>
 <div style="display: inline_block">
   <img alt="Bruno-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />        
 </div>
 <hr style="border:2px solid gray"> </hr>
 
-## Outras habilidades
+<h3>Outras habilidades</h3>
 <div style="display: inline_block">
   <img alt="Bruno-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img alt="Bruno-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
