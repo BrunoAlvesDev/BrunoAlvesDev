@@ -29,7 +29,8 @@
 
 <h3>Mobile</h3>
 <div style="display: inline_block">
-  <img title="Ionic" alt="Bruno-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />        
+  <img title="Ionic" alt="Bruno-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />    
+  <img title="React Native" alt="Bruno-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <hr style="border:2px solid gray"> </hr>
 
