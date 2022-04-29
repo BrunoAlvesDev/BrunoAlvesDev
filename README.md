@@ -20,7 +20,8 @@
 
 <h3>Back-end</h3>
 <div style="display: inline_block">
-  <img title="NodeJS" alt="Bruno-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
+  <img title="NodeJS" alt="Bruno-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
+  <img title="MongoDB" alt="Bruno-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />          
   <img title="PHP" alt="Bruno-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img title="MySQL" alt="Bruno-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 </div>
