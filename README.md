@@ -41,6 +41,3 @@
   <img title="Firebase" alt="Bruno-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />          
   <img title="Figma" alt="Bruno-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-<hr style="border:2px solid gray"> </hr>
-  
-![Snake animation](https://github.com/brunobl4ck/brunobl4ck/blob/output/github-contribution-grid-snake.svg)
